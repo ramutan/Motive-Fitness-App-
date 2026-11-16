@@ -101,3 +101,5 @@ The migration creates `profiles`, `activities`, and `meal_logs` tables, enables 
 Use the Supabase publishable key in the mobile app. Never put a Supabase service-role key in the client app or commit a private `.env` file to GitHub.
 
 ## Build for app stores
+
+The project includes EAS build profiles. From `motive-mobile`, install and sign into EAS, configure the project, then create iOS and Android production builds:
