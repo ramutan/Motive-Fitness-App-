@@ -52,3 +52,5 @@ outputs/
 illustrations
 `-- motive-mobile/
     |-- App.tsx                         # Welcome/auth, tabs, features, and app state
+     |-- app.json                        # Expo and store identifiers
+    |-- eas.json                        # EAS build profiles
