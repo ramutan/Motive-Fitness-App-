@@ -33,3 +33,4 @@ The browser account flow is a local prototype. It stores the account name and em
 ## Tech stack
 
 - Expo SDK 56
+- React Native 0.85 and React 19
