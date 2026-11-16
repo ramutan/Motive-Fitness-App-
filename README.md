@@ -28,3 +28,4 @@ The browser account flow is a local prototype. It stores the account name and em
 
 ### Native mobile app
 
+`motive-mobile` is the Expo and React Native app for iOS and Android. Account creation, sign-in, password reset, and saving activities and meals use Supabase when it is configured.
