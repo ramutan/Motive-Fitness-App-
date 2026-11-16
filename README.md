@@ -99,3 +99,5 @@ Open the QR code with Expo Go, or start a simulator with `npm run android` or `n
 The migration creates `profiles`, `activities`, and `meal_logs` tables, enables row-level security, and limits user data access to the signed-in user. Configure email confirmation and password recovery settings in Supabase before releasing the app.
 
 Use the Supabase publishable key in the mobile app. Never put a Supabase service-role key in the client app or commit a private `.env` file to GitHub.
+
+## Build for app stores
