@@ -69,3 +69,6 @@ illustrations
     `-- supabase/migrations/
         `-- 001_initial_schema.sql       # Profiles, activities, meals, and RLS
 ```
+
+## Run the broswer prototype
+
