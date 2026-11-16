@@ -43,3 +43,6 @@ The browser account flow is a local prototype. It stores the account name and em
 
 ```text
 outputs/
+|-- README.md
+|-- index.html                         # Browser app
+|-- assets/
