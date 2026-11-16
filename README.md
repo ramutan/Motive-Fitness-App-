@@ -95,3 +95,5 @@ Open the QR code with Expo Go, or start a simulator with `npm run android` or `n
 3. Set `EXPO_PUBLIC_SUPABASE_URL` and `EXPO_PUBLIC_SUPABASE_PUBLISHABLE_KEY` to values from your Supabase project.
 4. In the Supabase SQL Editor, run `supabase/migrations/001_initial_schema.sql`.
 5. Restart Expo with `npm run start`.
+
+The migration creates `profiles`, `activities`, and `meal_logs` tables, enables row-level security, and limits user data access to the signed-in user. Configure email confirmation and password recovery settings in Supabase before releasing the app.
