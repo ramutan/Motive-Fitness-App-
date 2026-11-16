@@ -15,3 +15,4 @@ Motive is a fitness and wellness app for everyday life. It helps people find wor
 - Activity calendar and progress overview
 - Tofee coach chat with local, rule-based replies
 - Cream-colored light theme and dark theme with an icon toggle
+- Responsive browser prototype and native iOS/Android app 
