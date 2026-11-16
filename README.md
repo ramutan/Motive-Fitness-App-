@@ -13,3 +13,4 @@ Motive is a fitness and wellness app for everyday life. It helps people find wor
 - Workout ideas for the gym, home, and outdoors
 - Meal inspiration with sample calories and macronutrient details
 - Activity calendar and progress overview
+- Tofee coach chat with local, rule-based replies
