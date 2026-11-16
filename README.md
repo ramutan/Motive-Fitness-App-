@@ -21,3 +21,5 @@ Motive is a fitness and wellness app for everyday life. It helps people find wor
 ## Project versions
 
 ### Browser prototype
+
+`index.html` is a standalone browser version with the dashboard, workout and nutrition pages, calendar, progress view, coach chat, theme toggle, and local account gate. Open it in a browser or serve the `outputs` folder with a static web host.
