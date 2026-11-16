@@ -1,2 +1,4 @@
 # Motive-Fitness-App-
-Motive is a fitness app for everyday life, with workout plans, meal and nutrition ideas, activity tracking, and Toffee the poodle coach. Built with Expo for iOS and Android, with a cream interface and light/dark themes.
+
+Motive is a fitness and wellness app for everyday life. It helps people find workouts, explore meal ideas, plan activities, and keep track of their movement. Toffee, a friendly poodle coach, welcomes users and offers simple encouragement along the way.
+
