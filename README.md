@@ -38,3 +38,6 @@ The browser account flow is a local prototype. It stores the account name and em
 - Supabase Auth and Postgres
 - React Native SVG
 - Static HTML, CSS, and JavaScript for the browser prototype
+
+## Project structure
+
