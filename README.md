@@ -36,3 +36,4 @@ The browser account flow is a local prototype. It stores the account name and em
 - React Native 0.85 and React 19
 - TypeScript
 - Supabase Auth and Postgres
+- React Native SVG
