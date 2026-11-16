@@ -103,3 +103,10 @@ Use the Supabase publishable key in the mobile app. Never put a Supabase service
 ## Build for app stores
 
 The project includes EAS build profiles. From `motive-mobile`, install and sign into EAS, configure the project, then create iOS and Android production builds:
+
+```bash
+npm install --global eas-cli
+eas login
+eas build:configure
+eas build --platform all --profile production
+```
