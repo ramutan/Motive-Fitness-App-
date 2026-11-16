@@ -58,3 +58,7 @@ illustrations
     |-- .env.example                     # Supabase 
     environment template
     |-- assets/photos/                  # Bundled mobile photo assets
+    |-- src/
+    |   |-- components/PoodleCoach.tsx  # Toffee coach image component
+    |   |-- lib/
+    |   |   |-- supabase.ts             # Supabase client 
