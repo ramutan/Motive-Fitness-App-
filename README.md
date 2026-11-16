@@ -9,3 +9,4 @@ Motive is a fitness and wellness app for everyday life. It helps people find wor
 ##Features
 
 - Welcome and account creation flow before the overview 
+- Sign in, forgot password, show/hide passwoed controls
