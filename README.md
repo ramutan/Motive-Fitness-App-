@@ -19,3 +19,5 @@ Motive is a fitness and wellness app for everyday life. It helps people find wor
 - Supabase authentication and account-scoped activity and meal logging in the mobile app
 
 ## Project versions
+
+### Browser prototype
