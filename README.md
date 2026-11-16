@@ -5,3 +5,7 @@ Motive is a fitness and wellness app for everyday life. It helps people find wor
 **Author and Developer: Prince Ram (ramutan)**
 
 ![Toffee, the Motive poodle coach](assets/toffee-poodle.png)
+
+##Features
+
+- Welcome and account creation flow before the overview 
