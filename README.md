@@ -78,3 +78,5 @@ python -m http.server 8000
 Then visit `http://localhost:8000`.
 
 ## Run the mobile app
+
+Install Node.js and npm, then run these commands from `motive-mobile`:
