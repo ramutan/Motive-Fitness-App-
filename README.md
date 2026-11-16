@@ -110,3 +110,5 @@ eas login
 eas build:configure
 eas build --platform all --profile production
 ```
+
+Submit each platform build through EAS Submit after configuring Apple and Google developer accounts and signing credentials:
