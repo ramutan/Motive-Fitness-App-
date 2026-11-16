@@ -17,3 +17,5 @@ Motive is a fitness and wellness app for everyday life. It helps people find wor
 - Cream-colored light theme and dark theme with an icon toggle
 - Responsive browser prototype and native iOS/Android app 
 - Supabase authentication and account-scoped activity and meal logging in the mobile app
+
+## Project versions
