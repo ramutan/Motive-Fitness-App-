@@ -91,3 +91,4 @@ Open the QR code with Expo Go, or start a simulator with `npm run android` or `n
 ## Configure Supabase
 
 1. Create a Supabase project.
+2. Copy `.env.example` to `.env` inside `motive-mobile`.
