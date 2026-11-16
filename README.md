@@ -117,3 +117,5 @@ Submit each platform build through EAS Submit after configuring Apple and Google
 eas submit --platform ios
 eas submit --platform android
 ```
+
+Before public release, set and verify the app identifiers in `app.json`, add store artwork and screenshots, prepare a privacy policy and store disclosures, and complete each store's review process. The identifiers in this starter project may need to be changed to identifiers available to you.
