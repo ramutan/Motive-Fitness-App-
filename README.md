@@ -41,3 +41,5 @@ The browser account flow is a local prototype. It stores the account name and em
 
 ## Project structure
 
+```text
+outputs/
