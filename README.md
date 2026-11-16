@@ -72,3 +72,4 @@ illustrations
 
 ## Run the broswer prototype
 
+Open `index.html` in a modern browser. For a local web server, run this from the `outputs` directory:
