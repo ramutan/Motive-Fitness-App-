@@ -56,3 +56,5 @@ illustrations
     |-- eas.json                        # EAS build profiles
     |-- package.json
     |-- .env.example                     # Supabase 
+    environment template
+    |-- assets/photos/                  # Bundled mobile photo assets
