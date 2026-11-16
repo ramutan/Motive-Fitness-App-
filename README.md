@@ -46,3 +46,6 @@ outputs/
 |-- README.md
 |-- index.html                         # Browser app
 |-- assets/
+|   |-- toffee-poodle.png              # Toffee image supplied by Prince Ram
+|   |-- photos/                         # Color workout and food photos
+|   `-- *.svg                           # Browser 
