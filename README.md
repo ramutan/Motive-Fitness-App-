@@ -85,3 +85,5 @@ Install Node.js and npm, then run these commands from `motive-mobile`:
 npm install
 npm run start
 ```
+
+Open the QR code with Expo Go, or start a simulator with `npm run android` or `npm run ios`. The iOS simulator requires macOS. The mobile app requires a configured Supabase project to create accounts and enter the overview.
