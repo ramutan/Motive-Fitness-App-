@@ -49,3 +49,6 @@ outputs/
 |   |-- toffee-poodle.png              # Toffee image supplied by Prince Ram
 |   |-- photos/                         # Color workout and food photos
 |   `-- *.svg                           # Browser 
+illustrations
+`-- motive-mobile/
+    |-- App.tsx                         # Welcome/auth, tabs, features, and app state
