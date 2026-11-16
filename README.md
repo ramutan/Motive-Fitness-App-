@@ -94,3 +94,4 @@ Open the QR code with Expo Go, or start a simulator with `npm run android` or `n
 2. Copy `.env.example` to `.env` inside `motive-mobile`.
 3. Set `EXPO_PUBLIC_SUPABASE_URL` and `EXPO_PUBLIC_SUPABASE_PUBLISHABLE_KEY` to values from your Supabase project.
 4. In the Supabase SQL Editor, run `supabase/migrations/001_initial_schema.sql`.
+5. Restart Expo with `npm run start`.
