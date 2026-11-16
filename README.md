@@ -48,21 +48,18 @@ outputs/
 |-- assets/
 |   |-- toffee-poodle.png              # Toffee image supplied by Prince Ram
 |   |-- photos/                         # Color workout and food photos
-|   `-- *.svg                           # Browser 
-illustrations
+|   `-- *.svg                           # Browser illustrations
 `-- motive-mobile/
     |-- App.tsx                         # Welcome/auth, tabs, features, and app state
-     |-- app.json                        # Expo and store identifiers
+    |-- app.json                        # Expo and store identifiers
     |-- eas.json                        # EAS build profiles
     |-- package.json
-    |-- .env.example                     # Supabase 
-    environment template
+    |-- .env.example                     # Supabase environment template
     |-- assets/photos/                  # Bundled mobile photo assets
     |-- src/
     |   |-- components/PoodleCoach.tsx  # Toffee coach image component
     |   |-- lib/
-    |   |   |-- supabase.ts             # Supabase client 
-    and session storage
+    |   |   |-- supabase.ts             # Supabase client and session storage
     |   |   |-- saveActivity.ts          # Activity logging
     |   |   `-- saveMeal.ts              # Meal logging
     |   `-- theme.ts                     # Cream and dark palettes
@@ -77,3 +74,5 @@ Open `index.html` in a modern browser. For a local web server, run this from the
 ```bash
 python -m http.server 8000
 ```
+
+Then visit `http://localhost:8000`.
