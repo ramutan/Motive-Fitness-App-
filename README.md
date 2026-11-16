@@ -62,3 +62,10 @@ illustrations
     |   |-- components/PoodleCoach.tsx  # Toffee coach image component
     |   |-- lib/
     |   |   |-- supabase.ts             # Supabase client 
+    and session storage
+    |   |   |-- saveActivity.ts          # Activity logging
+    |   |   `-- saveMeal.ts              # Meal logging
+    |   `-- theme.ts                     # Cream and dark palettes
+    `-- supabase/migrations/
+        `-- 001_initial_schema.sql       # Profiles, activities, meals, and RLS
+```
