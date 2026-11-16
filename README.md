@@ -123,3 +123,5 @@ Before public release, set and verify the app identifiers in `app.json`, add sto
 See the [Expo build guide](https://docs.expo.dev/build/setup/) and [Expo store submission guide](https://docs.expo.dev/deploy/submit-to-app-stores/) for current instructions.
 
 ## Photos and attribution
+
+Workout and food photos are bundled in color. Their sources are marked CC0 or public domain on Wikimedia Commons:
