@@ -141,3 +141,6 @@ The Tofee poodle image was supplied by Prince Ram for this project.
 Toffee's current coach replies are local examples and do not use a hosted AI service. Meal calories and nutrient amounts are sample estimates for app demonstration; they are not individualized nutrition advice.
 
 ## License
+
+
+This repository does not currently include a project-wide open-source license. Photo assets retain their source licenses, and the Toffee image was provided by the author. Add a `LICENSE` file before inviting reuse of the full project.
