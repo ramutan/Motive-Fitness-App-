@@ -130,4 +130,7 @@ Workout and food photos are bundled in color. Their sources are marked CC0 or pu
 - [Maintaining a healthy lifestyle](https://commons.wikimedia.org/wiki/File:Maintaining_a_healthy_lifestyle.jpg) - Keyidin28, CC0.
 - [Runner](https://commons.wikimedia.org/wiki/File:Runner_(Unsplash).jpg) - Jenny Hill, CC0 worldwide.
 - [Dumbell aerobics](https://commons.wikimedia.org/wiki/File:Dumbell_aerobics.jpg) - Amanda Mills / CDC, public domain.
+- [Food salad](https://commons.wikimedia.org/wiki/File:Food_salad.jpg) - Leon Brooks, public domain worldwide.
+- [Healthy Breakfast](https://commons.wikimedia.org/wiki/File:Healthy_Breakfast_(Unsplash).jpg) - Federica Diliberto, CC0 worldwide.
+- [Dinner meal](https://commons.wikimedia.org/wiki/File:Dinner_meal_MyPlate_20210810-FNS-UNC-0016.jpg) - U.S. Department of Agriculture, public domain.
 
