@@ -136,4 +136,4 @@ Workout and food photos are bundled in color. Their sources are marked CC0 or pu
 
 The Toffee poodle image was supplied by Prince Ram for this project.
 
-
+## Notes
