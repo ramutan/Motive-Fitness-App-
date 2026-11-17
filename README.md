@@ -134,8 +134,10 @@ Workout and food photos are bundled in color. Their sources are marked CC0 or pu
 - [Healthy Breakfast](https://commons.wikimedia.org/wiki/File:Healthy_Breakfast_(Unsplash).jpg) - Federica Diliberto, CC0 worldwide.
 - [Dinner meal](https://commons.wikimedia.org/wiki/File:Dinner_meal_MyPlate_20210810-FNS-UNC-0016.jpg) - U.S. Department of Agriculture, public domain.
 
-The Toffee poodle image was supplied by Prince Ram for this project.
+The Tofee poodle image was supplied by Prince Ram for this project.
 
 ## Notes
 
 Toffee's current coach replies are local examples and do not use a hosted AI service. Meal calories and nutrient amounts are sample estimates for app demonstration; they are not individualized nutrition advice.
+
+## License
