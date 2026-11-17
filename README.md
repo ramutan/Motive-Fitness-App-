@@ -127,5 +127,5 @@ See the [Expo build guide](https://docs.expo.dev/build/setup/) and [Expo store s
 Workout and food photos are bundled in color. Their sources are marked CC0 or public domain on Wikimedia Commons:
 
 - [Fitness work out](https://commons.wikimedia.org/wiki/File:Fitness_work_out.jpg) - Samson Ssemakadde, CC0.
-
+- [Maintaining a healthy lifestyle](https://commons.wikimedia.org/wiki/File:Maintaining_a_healthy_lifestyle.jpg) - Keyidin28, CC0.
 
