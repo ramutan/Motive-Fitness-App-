@@ -137,3 +137,5 @@ Workout and food photos are bundled in color. Their sources are marked CC0 or pu
 The Toffee poodle image was supplied by Prince Ram for this project.
 
 ## Notes
+
+Toffee's current coach replies are local examples and do not use a hosted AI service. Meal calories and nutrient amounts are sample estimates for app demonstration; they are not individualized nutrition advice.
